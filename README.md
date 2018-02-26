@@ -7,3 +7,6 @@
 * area_hot热门城市初始化
 * area_slices区域初始化
 * addAreaBox加载模板
+
+
+![pic1](https://github.com/lovlin1990/area/blob/master/intro/area.png);

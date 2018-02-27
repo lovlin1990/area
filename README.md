@@ -1,5 +1,7 @@
 # area
 
+预览: https://lovlin1990.github.io/area/area.html
+
 * 省市联动多选
 * area.json放到 area-pc.js 之前引入
 * data-inputName表示隐藏的input框的name值
